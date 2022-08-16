@@ -27,14 +27,12 @@ body{
 } 
 
 .text { /*removed the div tag at the front*/
-  background: green;
   color: rgb(0, 0, 0);
   font-size: 22px;
   font-weight: 100;
 }
 
 .child { /*moved this below the text class*/
-  background: green;
   color: rgb(0, 0, 0);
   font-weight: 800;
   font-size: 14px;
