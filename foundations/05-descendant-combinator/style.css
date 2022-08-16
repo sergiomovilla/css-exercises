@@ -1,0 +1,8 @@
+/* styles.css */
+/* Don't forget to add a space in between two classes, this indicates parent child relations*/
+.container .text{
+  background-color: yellow;
+  font-size: 20px;
+  text-align: center;
+  color: red;
+}
